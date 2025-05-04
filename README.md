@@ -1,2 +1,5 @@
 # Link
 Link
+<a href="https://kiragamestore.com">🌐 Website</a>
+<a href="https://t.me/kiragamestore">💬 Telegram</a>
+<a href="https://https://m.me/kirastore2024">👍 Messenger</a>
